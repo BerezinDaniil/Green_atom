@@ -1,0 +1,6 @@
+pymorphy2
+nltk
+catboost
+pandas
+numpy
+tqdm
